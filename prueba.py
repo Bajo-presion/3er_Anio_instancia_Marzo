@@ -8,3 +8,9 @@ class test():
 obj=test()
 print(Obj.variable)
 
+
+lista = []
+
+lista.append(None)
+
+print(lista)
